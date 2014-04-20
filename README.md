@@ -8,7 +8,7 @@ Email:			seejee1@gmail.com
 Plugin URL:		<a href="http://cideator.com/jquery/scrollor">http://cideator.com/jquery/scrollor</a>
 
 <strong>Company Info</strong>
-			<img src="http://cideator.com/external_use_logos/onecolor-small-100x46.png" />
+			<a href="http://cideator.com"><img src="http://cideator.com/external_use_logos/onecolor-small-100x46.png" /></a>
 Email:			cideator@gmail.com
 Website:		http://cideator.com
 </pre>

@@ -85,6 +85,13 @@ ul.options li{
 	color:#666;
 	padding:5px;
 }
+.nav .menu li a.download{
+	background-color:#06C;
+	color:#fff;
+}
+.nav .menu li a.download:hover{
+	background-color:#F60;
+}
 .nav .menu li a:hover{
 	background:#FFF;
 }

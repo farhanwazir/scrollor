@@ -47,9 +47,6 @@ Website:		http://cideator.com
     <li><span class="type"><strong>onAfter</strong> (Function), default:none</span> this is event, it triggered after scrollor complete scrolling</li>
     <li><span class="type"><strong>onAfterEach</strong> (Function), default:none</span> this is event, it triggered after each axis scroll, it works when animateBoth set to false</li> 
 </ul>
-<br />
-<br />
-<br />
 <h2 id="demo">Demo</h2>
 see demo at http://cideator.com/jquery/scrollor#demo
 <br />

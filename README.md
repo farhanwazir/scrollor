@@ -1,10 +1,3 @@
-scrollor
-========
-
-JQuery Scrollor Plugin for document/object/element scrolling.
-
-Find complete details on http://cideator.com/jquery/scrollor
-
 <h1 id="pagetop">Scrollor</h1>
 <p>JQuery plugin for scroll page and/or element(s) by one line of code.</p>
 <div class="developer">

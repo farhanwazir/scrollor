@@ -1,0 +1,106 @@
+/*
+Name:		Scrollor
+Author:		Farhan Wazir
+Email:		seejee1@gmail.com
+Website:	http://cideator.com
+
+Company:	Creative Ideator
+Website:	http://cideator.com
+*/
+
+
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	padding:0;
+	margin:0 auto;
+	max-width:500px;
+}
+
+li{
+	font-size:80%;
+	margin:10px;
+}
+
+code{
+	padding:5px;
+	background:#f7f7f7;
+}
+li span.type{
+	display:inline-table;
+	background:#FFF7EA;
+	padding:10px;
+}
+ul.options{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+ul.options li{
+	margin-bottom:20px;
+}
+.scrollor-container{
+	border:solid 4px #06F;
+	min-width:100%;
+	min-height:100%;
+	max-height:450px;
+	overflow:hidden;
+}
+
+.slides{
+	width:1000px;
+}
+
+.slide{
+	max-width:100%;
+	max-height:100%;
+	width:200px;
+	height:350px;
+	background:#06C;
+	color:#fff;
+	display:inline-table;
+	padding:15px;
+	margin:8px;
+}
+
+.nav{
+	position:fixed;
+	top:20px;
+	right:0;
+}
+.nav ul.menu{
+	padding: 15px;
+	margin: 15px;
+	background-color:#f7f7f7;
+	border:solid 1px #ccc;
+	list-style:none;
+}
+.nav .menu li{
+	margin:4px;
+	font-size:100%;
+}
+.nav .menu li a{
+	display:block;
+	text-decoration:none;
+	color:#666;
+	padding:5px;
+}
+.nav .menu li a:hover{
+	background:#FFF;
+}
+#status{
+	position:fixed;
+	text-align:center;
+	padding:10px;
+	bottom:0;
+	background:#FFF;
+	border:solid 1px #999;
+}
+.copyrights{
+	text-align:right;
+}
+.developer{
+	padding:15px;
+	background:#f7f7f7;
+	font-size:80%;
+}

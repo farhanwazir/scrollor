@@ -25,7 +25,7 @@ Website:		http://cideator.com
 </ol>
 <h3>Usage</h3>
 <ul>
-	<li><code>$(target_id).scrollor()</code></li>
+	<li><code>$(target_id).scrollor({options here})</code></li>
 </ul>
 <h3>Options</h3>
 <ul class="options">

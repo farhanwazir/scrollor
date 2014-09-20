@@ -5,7 +5,9 @@
 "version": "1.0.0",
 "homepage": "https://github.com/farhanwazir/scrollor",
 "author": {
-"name": "Farhan Wazir"
+"name": "Farhan Wazir",
+"url": "http://cideator.com",
+"email": "seejee1@gmail.com"
 },
 "repository": {
 "type": "git",

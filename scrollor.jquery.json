@@ -3,7 +3,7 @@
 "title": "jQuery Scrollor",
 "description": "JQuery Scrollor is a intelligent and easy scrollor.",
 "version": "1.0.0",
-"homepage": "https://github.com/farhanwazir/scrollor",
+"homepage": "http://cideator.com/jquery/scrollor",
 "author": {
 "name": "Farhan Wazir",
 "url": "http://cideator.com",
@@ -22,6 +22,9 @@
 "url": "http://www.opensource.org/licenses/MIT"
 }
 ],
+"docs": "http://cideator.com/jquery/scrollor",
+"download": "https://github.com/farhanwazir/scrollor",
+"demo": "http://cideator.com/jquery/scrollor",
 "dependencies": {},
 "devDependencies": {},
 "keywords": [scroller, scroll, scrollor, smart, moving, smooth scroll]
